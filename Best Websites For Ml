@@ -1,0 +1,29 @@
+how to learn machhine learning:
+
+1. basics of Linear Algebra,
+ Multivariate Calculus,
+ Statistics,
+ and Python
+ R Programming with sklearn
+ (these algorithms are implemented in scratch)
+ 
+ some of the python libraries used in machine learning(Keras, TensorFlow, Scikit-learn, etc.)
+ 
+2.sources that used to learn ml:
+
+ a)Stanford’s Machine Learning Course by Andrew Ng is quite popular.
+ b)If you want a self-study guide to Machine Learning, then Machine Learning Crash Course from Google is good for you as it will provide you an 
+   introduction to machine learning with video lectures, real-world case studies, and hands-on practice exercises.
+ c)In case you prefer an offline course, the Geeksforgeeks Machine Learning Foundation course will be ideal for you. 
+   This course will teach you about various concepts of Machine Learning and also practical experience in implementing them in a classroom environment.  
+  
+ d)Kaggle which is held by google  
+	
+3)Take part in Competitions:
+
+
+After you have understood the basics of Machine Learning, you can move on to the crazy part!!! Competitions! These will basically make you even more proficient in ML by combining your mostly theoretical knowledge with practical implementation. Some of the basic competitions that you can start with on Kaggle that will help you build confidence are given here:
+
+Titanic: Machine Learning from Disaster: The Titanic: Machine Learning from Disaster challenge is a very popular beginner project for ML as it has multiple tutorials available. So it is a great introduction to ML concepts like data exploration, feature engineering, and model tuning.
+Digit Recognizer: The Digit Recognizer is a project after you have some knowledge of Python and ML basics. It is a great introduction into the exciting world neural networks using a classic dataset which includes pre-extracted features.
+
